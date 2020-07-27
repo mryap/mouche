@@ -51,11 +51,11 @@ email: xxxx@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 首页/Home
 
   -
     href: /categories/
-    label: 分类
+    label: 分类/Categories
 
 #   -
 #     href: /archives/
@@ -67,11 +67,11 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 维基/wiki
 
   -
     href: /links/
-    label: 链接
+    label: 链接/links
 
   -
     href: /about/

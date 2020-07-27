@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://xenodochial-clarke-c5d321.netlify.app/
+url: https://xenodochial-clarke-c5d321.netlify.app
 date_format: "ordinal"
 title: xenodochial
 subtitle: "公众号：闷骚的程序员"

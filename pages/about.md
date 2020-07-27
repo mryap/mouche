@@ -2,19 +2,17 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+keywords: hireyap, Yap
 comments: true
 menu: About
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+I am Shiao-Shyan.
 
-仰慕「优雅编码的艺术」。
+Build online success with Digital Analytics and A/B testing. Hire me to gain validated business insight & improves the customer experience. 
 
-坚信熟能生巧，努力改变人生。
-
-## 联系
+<!-- ## 联系
 
 <ul>
 {% for website in site.data.social %}
@@ -26,10 +24,10 @@ permalink: /about/
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
 </li>
 {% endif %}
-</ul>
+</ul> -->
 
 
-## Skill Keywords
+## Skill 
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}

@@ -27,7 +27,7 @@ Build online success with Digital Analytics and A/B testing. Hire me to gain val
 </ul> -->
 
 
-## Skill 
+<!-- ## Skill 
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
@@ -36,4 +36,4 @@ Build online success with Digital Analytics and A/B testing. Hire me to gain val
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
-{% endfor %}
+{% endfor %} -->
